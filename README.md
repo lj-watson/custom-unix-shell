@@ -6,4 +6,4 @@ Connect multiple system commands with piping character `|`<br><br>
 
 ### Running
 In Linux environment, run `./shs` executable in terminal and it will load <br>
-Uses meson, to rebuild `meson setup build` `meson compile -C build`
+Uses meson (`sudo apt install meson`), to rebuild `meson setup build` `meson compile -C build`
